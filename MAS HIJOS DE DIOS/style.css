@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+
+#derecha {
+    float: right;
+    color:blue;
+    width: 18%;
+    text-align: justify;
+    border: 2px aqua solid;
+    position: static;
+    font-family: "times new roma";
+}
+
+.emociond {
+    margin: 15px;
+    font-size: 15px;
+}
+
+#izquierda {
+    float: left;
+    color:blue;
+    width: 18%;
+    text-align: justify;
+    border: 2px aqua solid;
+    position: static;
+    font-family: "times new roma";
+}
+
+.emocioni {
+    margin: 15px;
+    font-size: 15px;
+}
+
+#centro {
+    margin: 1% 20%;
+    border: 5px white dotted;
+}
+
+#titulo {
+
+    margin: 10px;
+    font-size: 40px;
+    color:aqua; 
+    text-align: center;
+    font-family: 'arial';
+}
+
+.descripcion {
+    margin: 10px;
+    color:mediumseagreen;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+}
